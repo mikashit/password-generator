@@ -7,19 +7,30 @@ body {
     margin-bottom: 50px;
     background-color: #1F2937;
     color: white;
+    
     text-align: center;
     
 }
 
 
 .title-el {
+    font-family: 'Karla';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 40px;
+    line-height: 40px;
+    letter-spacing: -0.025em;
     color: #4ADF86;
+    
     
 }
 
 p {
-   font-weight: 400;
-   font-size: 20px;
+   font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 28px;
 }
 
 .btn-password {
@@ -40,7 +51,12 @@ p {
     height: 0px;
     border-radius: 1px; 
     border: none;
-    background-color: #2F3E53;   
+    background-color: #2F3E53; 
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
 }
 
 .btn-passwords {
@@ -52,6 +68,11 @@ p {
     width: 211px;
     height: 39px;
     padding: 9px 17px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 32px;
     
    
 }
